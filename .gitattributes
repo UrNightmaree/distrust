@@ -1,2 +1,1 @@
-*.tl linguist-language=Lua
-*.d.tl linguist-language=Lua
+*.tl *.d.tl linguist-language=Lua
